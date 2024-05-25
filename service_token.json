@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "silken-impulse-424210-f8",
+  "private_key_id": "ad4c94bed0fcaea86b6c98f1d46f08fa89824dbc",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC0xWLcbSySjZ+S\n1hk5U7M52Fk0kdjkwmfo6h5Fio0OXHOybX6i8MYCUP3DzJQPH3MBwNCmdT7v1am0\nNf4Nywumo33uSKvkZRtRIShRT3ec9aYStfcrS92yI+CnjSZujL7djbVazYK8P9B8\nHsHY3sQ4bJBlspM0s3walriLHTglOI3spPXMTId1AOTWM5mOpeW3L4FRE46OnP3D\n4FtBs+onK/6anH+Y4eGFYsGpggLSql+/IpOe4okYsK+MtSCozwxCYsmjl9n1Dgud\n80EYfLfTuQLnjqbOpbc6sM1Y8zyq4x88e6VpY3c/AikaIrikk+QPKVZ+tLI7b8sH\ndlpG8ATPAgMBAAECggEADmdj9zhjwtGyE1sn6191+nf4s62jYKb07KQrAVOG5cwM\nE/2Rh54zyN93OPDGI2ZYHZ2lgn35I9ccjJV4xtSU+xQv5pq3x50ezhocQk5Ys5MH\nRpplNXf4FEezkOY4V7qzQqgV+URC1IkpLZqty4AElpJf9xqBjEN48g1savlLDfwP\nPy/QDMVZj5SoJHZmBXE5YkdY4Ui8cg04B4+Rueo3K8aV72+axmkn8Jq6RRLUE/hd\niENDMH/xLhYPgQhARvA5Hyzrv/cWG+V5a4xJpEsJNp+8b6XQbmLJPd6Qhslf/V9g\n2yy1BmQ3T1+cecFUnkqWISbJQD71qvpv7HPWo4fAQQKBgQDo1idezk5hfUFFhHi4\nZBHP2ibj3dimTuNhKZSygAZB8LxDOwNxDx6FM0BRxjIyjoAyKiPHTFfSLJ9OXc1m\nSKTBECPg1hpCCCTJVAWvZ+FtruzXQ3Ec1e7/WloR+z5wtArwcqN0+6lpb48LUTuy\nTr9LDq6IGPx3ByU+NFq5RKi1UQKBgQDGwTxtGPwrzhFoKYEbN8DzRvx/nOs1X4I2\nGwzxuoYXTM2TqdeAkNNsUG9cYuouQQFqPf0of31lWIt3x0gkTkvSoNchbiXvoQse\nWoMhTMMF0mRJejy2xOKpVVFq/+FetBsKF4TW9MY585VwqlJFAXOCwhO9SV+zBTk/\n6ZKBkR0QHwKBgD6cL7QPuAYBH4cpCylSR3PkDqchpbt65SvgeYrSYFxk9ssBWHiT\nfzqEQJx8tkzgAtr6d+qEvezXcPMqyCvkBuGfjHZOPHtbI0E8Jdc4EOdkrW1pRkZh\nxMXHrwa8z9qQn4xu10OC1Nh0VjvN2UamZEwzo30XcvQy6LHkdCzzqIYxAoGBALOm\nFB00eTKLB3bUFQtqALCkWDRsvLk4g/StzKxuASfsVuEConRl84QyzAWArtVyEnpa\nX4oMemZxe1afvRh74NMYaHuiGQ4YzXj5LQ+bV6fafKVhpKE7IvkV0graEHZOayZb\nDcpR4x6cilYUzVnsLuFg1QDB4otozE91quQMK23XAoGBAIgNDb0Nmo8JqmW4td4y\nPgR9vluFC0Up1UF4CWjlwjITorQs8r956BRmiIK7+gupL682Bk80ca46LVPMbmTO\nVGGg8njLdJhXTuviqudpBjNmEkTmfe/h2kcM6WElCn/hoOM1Gs3VcMsnLMvtqxA/\nhmtaGY9mWwTbZ4wZWylaHN8b\n-----END PRIVATE KEY-----\n",
+  "client_email": "vision-service@silken-impulse-424210-f8.iam.gserviceaccount.com",
+  "client_id": "111463838223143772051",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/vision-service%40silken-impulse-424210-f8.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
